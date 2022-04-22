@@ -1,6 +1,6 @@
 # Java-Project-Drafted-Wireframe
 
-## Here is our team ("The Room 18") Java Randomness Project - Drafted Wireframe.
+## Here is our team ("The Room 18") Java Randomness Project - Drafted Wireframe. The wireframe is done by https://balsamiq.com/.
 ### The goal is to have a good completion in one week starting from today. (April 22, 2022)
 ### Here are our team members: Craig Burke, DJ Castle, Amanda Torres and myself.
 
